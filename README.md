@@ -6,6 +6,7 @@
 ### 实践
 - [Android Google ARCore尝鲜记录](https://mp.weixin.qq.com/s/BwjyJwUJKZSSaaKbzRiT8Q)
 
+- [初探Android ARCore](https://blog.dreamtobe.cn/arcore/)
 
 ### GitHub
 - [arcore-android-sdk](https://github.com/google-ar/arcore-android-sdk)
