@@ -8,6 +8,10 @@
 
 - [初探Android ARCore](https://blog.dreamtobe.cn/arcore/)
 
+- [开始在Android Studio上开发ARCore](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2017/0901/8458.html)
+
+- [开始用Kotlin开发ARCore](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2017/0914/8509.html)
+
 ### GitHub
 - [arcore-android-sdk](https://github.com/google-ar/arcore-android-sdk)
 
