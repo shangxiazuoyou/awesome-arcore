@@ -12,6 +12,8 @@
 
 - [开始用Kotlin开发ARCore](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2017/0914/8509.html)
 
+- [ARCore初探](https://mp.weixin.qq.com/s/cfEaPVfxT3vpJFdnYtxJrA)
+
 ### GitHub
 - [arcore-android-sdk](https://github.com/google-ar/arcore-android-sdk)
 
