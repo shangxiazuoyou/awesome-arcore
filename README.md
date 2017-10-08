@@ -14,6 +14,14 @@
 
 - [ARCore初探](https://mp.weixin.qq.com/s/cfEaPVfxT3vpJFdnYtxJrA)
 
+- [从Android Studio 开始的ARCore之旅](https://juejin.im/post/59a8088cf265da246c4a35b9)
+
+- [ARCore学习之旅：基础概念](https://juejin.im/post/59abb10a51882524397fbe8c)
+
+- [ARCore学习之旅：ARCore Sample 导读](https://juejin.im/post/59ac1f2bf265da249517ac72)
+
+- [ARCore ——移动AR的浪潮](http://www.infoq.com/cn/news/2017/09/ARCore-moblie-AR)
+
 ### GitHub
 - [arcore-android-sdk](https://github.com/google-ar/arcore-android-sdk)
 
