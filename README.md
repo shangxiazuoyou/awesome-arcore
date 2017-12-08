@@ -32,3 +32,5 @@
 - [ARCore-Demo](https://github.com/Julesssss/ARCore-Demo) 持续更新
 
 - [ArCoreExample](https://github.com/Anrimian/ArCoreExample)
+
+- [Google-ARCore-Playground](https://github.com/florent37/Google-ARCore-Playground) -Exploring Augmented Reality with google's sdk ARCore
