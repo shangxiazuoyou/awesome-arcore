@@ -1,5 +1,8 @@
 # awsome-arcore
 
+### Offical website
+[google-ar](https://github.com/google-ar)
+
 ### 新闻
 - [谷歌宣布推出一款增强现实(AR)工具“ARCore”](https://mp.weixin.qq.com/s/YeKPWzm4sJS8QvIsMvD18Q)
 
@@ -21,6 +24,11 @@
 - [ARCore学习之旅：ARCore Sample 导读](https://juejin.im/post/59ac1f2bf265da249517ac72)
 
 - [ARCore ——移动AR的浪潮](http://www.infoq.com/cn/news/2017/09/ARCore-moblie-AR)
+
+- [开始用Kotlin开发ARCore](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2017/0914/8509.html)
+
+### ARCore Study Road
+- [ARCore学习之旅](https://juejin.im/post/59ac1f2bf265da249517ac72)
 
 ### GitHub
 - [arcore-android-sdk](https://github.com/google-ar/arcore-android-sdk)
