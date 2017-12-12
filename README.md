@@ -34,3 +34,7 @@
 - [ArCoreExample](https://github.com/Anrimian/ArCoreExample)
 
 - [Google-ARCore-Playground](https://github.com/florent37/Google-ARCore-Playground) -Exploring Augmented Reality with google's sdk ARCore
+
+- [ar-drawing-java](https://github.com/googlecreativelab/ar-drawing-java)
+
+- [ARCore](https://github.com/Furbee/ARCore)
