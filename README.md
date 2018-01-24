@@ -27,6 +27,8 @@
 
 - [开始用Kotlin开发ARCore](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2017/0914/8509.html)
 
+- [深入浅出，ARCore开发原理](https://juejin.im/post/5a67043a6fb9a01cae0fc9e3)
+
 ### ARCore Study Road
 - [ARCore学习之旅](https://juejin.im/post/59ac1f2bf265da249517ac72)
 
